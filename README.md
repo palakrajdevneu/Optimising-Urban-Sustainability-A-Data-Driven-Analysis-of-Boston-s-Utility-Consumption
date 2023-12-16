@@ -1,4 +1,4 @@
-**### Optimising Urban Sustainability: A Data-Driven Analysis of Boston's Utility Consumption**
+# Optimising Urban Sustainability: A Data-Driven Analysis of Boston's Utility Consumption**
 
 #### Team Members
 **Aditi Ashutosh Deodhar, Palak Rajdev, Aishwarya Vikas Patil, Riya Singh**
