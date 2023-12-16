@@ -51,6 +51,7 @@ Use geographic visualizations to map out areas with high and low utility usage.
 Recommendations for Urban Sustainability:
 
 Provide insights and recommendations for urban planners or policymakers based on the analysis to promote sustainable utility consumption.
+
 **References**
 Boston Open Data. (n.d.). [City of Boston Utility Data](https://data.boston.gov/dataset/utility)
 Green, M., & Brown, T. (2019). "Urban Sustainability: Challenges and Opportunities." Journal of Sustainable Cities, 12(3), 215-230.
