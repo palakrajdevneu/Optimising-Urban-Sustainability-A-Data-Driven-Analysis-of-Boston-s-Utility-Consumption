@@ -7,13 +7,18 @@
 Urban sustainability is a critical concern in modern city planning, and optimizing utility consumption plays a pivotal role in achieving environmentally friendly and cost-effective urban environments. The motivation behind this project is to leverage the "City of Boston Utility Data" to gain insights into the patterns and trends of utility consumption across different neighborhoods in Boston. Our goal is to identify areas for improvement, assess the impact of existing policies, and propose data-driven recommendations for optimizing utility consumption in the city.
 
 **Description of the Dataset**
+
 _Source:_
+
 City of Boston Utility Data
 _Type:_
+
 Quantitative and Temporal
 _Size:_
+
 The dataset includes a substantial volume of records, capturing utility consumption patterns over time for various locations within the city.
 _Unique Characteristics:_
+
 The dataset provides detailed information on utility usage, including electricity, water, and gas consumption.
 Temporal granularity allows for the analysis of trends over different time periods.
 Geographic data enables the exploration of utility consumption variations across different neighborhoods in Boston.
