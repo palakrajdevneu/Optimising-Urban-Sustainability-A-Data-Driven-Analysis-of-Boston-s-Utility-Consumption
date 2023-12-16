@@ -11,17 +11,21 @@ Urban sustainability is a critical concern in modern city planning, and optimizi
 _Source:_
 
 City of Boston Utility Data
+
 _Type:_
 
 Quantitative and Temporal
+
 _Size:_
 
 The dataset includes a substantial volume of records, capturing utility consumption patterns over time for various locations within the city.
+
 _Unique Characteristics:_
 
 The dataset provides detailed information on utility usage, including electricity, water, and gas consumption.
 Temporal granularity allows for the analysis of trends over different time periods.
 Geographic data enables the exploration of utility consumption variations across different neighborhoods in Boston.
+
 #### Proposed Approach
 **Data Exploration and Preprocessing:**
 
